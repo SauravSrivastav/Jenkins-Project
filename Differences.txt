@@ -1,0 +1,9 @@
+Differences Between Continous Integration Continous Delivery and Continous Deployment.
+
+1) Continous Integration:The practice of merging development work with the main branch constantly.
+
+2) Continous Delivery: Continous Delivery of code to an enviornment once the code is ready to ship.
+                       This could be stagging or production. The idea is the product is delivered to a user base,
+                       which can be a QAs or customers for review and inspection.
+
+3) Continous Deployment:The deploment or release of code to production as soon as it is ready.

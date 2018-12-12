@@ -1,0 +1,72 @@
+1) Introduction to Continous Integration.
+
+2) Introduction to Jenkins and the History of Jenkins.
+
+3) Install Java
+   Text Direction:Install Java
+
+4) Install Jenkins.
+
+5) Install Jenkins.
+
+6) Jenkins Architecture and Key Concept of Jenkins.
+
+7) Overview Of Jenkins UI.
+
+8) Create our First Jenkins Job.
+
+9) Run our First Jenkins Job.
+
+************************************************************************Continous Integration***********************************************************************************
+
+1) Install Git and Jenkins Github Plugin.
+
+2) Install Maven on Our Local Box.
+
+3) Configure Jenkins to Work with Java,Git and Maven.
+
+4) Create our First Maven Based Jenkins Projects.
+
+5) Run our First Jenkins Build.
+
+6) Configure Jenkins to Poll Github Preodically.
+   Text Direction:Configure Jenkins to Poll GitHub Periodically.
+
+7) Other Build Triggers.
+   Text Direction:Other Build Triggers.
+
+*************************************************************************Continous Inspection*************************************************************************************
+1) Code Quality and Code Coverage Metrics Report.
+   Text Direction:Code Quality and Code Coverage Metrics Report.
+
+2) Jenkins Support for Gradle, Ant and Shell Scripts.
+   Text Direction:Jenkins Support for Gradle, Ant and Shell Scripts.
+
+**************************************************************************Continous Delivery***************************************************************************************
+
+1) Archive Build Artifacts
+
+2) Install and Configure Tomcat as the Staging Enviornment.
+
+3) Deploy to Stagging Enviornment.
+
+4) Jenkins Build Pipeline.
+
+5) Parallel Jenkins Build.
+
+6) Deploy to Production.
+
+*************************************************************************Distributed Builds**************************************************************************************
+
+1) Introduction to Distributed Jenkins Build.
+
+2) Install Jenkins Master Node in the CLoud.
+   Text Direction:Install Jenkins Master Node in the CLoud.
+
+3) Install Jenkins Slaves Agents in the Cloud.
+   Text Direction:Install Jenkins Slaves Agents in the Cloud.
+
+4) Concurrent Jenkins Build and Label Jenkins Build.
+
+
+From:https://www.level-up.one/jenkins-tutorial-level-up/
